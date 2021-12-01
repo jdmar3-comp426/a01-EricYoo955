@@ -3,8 +3,7 @@ body {
   }
   h1 {
     color: #56ce8c;
-    width: 1000;
-    height: 500;
+    text-align: center;
   }
   h2 {
     color: #3e78e4;
@@ -38,5 +37,9 @@ a:hover {
 a:active {
   color: red;
 }
-
+div {
+  height: 100px;
+  width: 40%;
+  background-color: beige;
+}
  
