@@ -37,11 +37,8 @@ a:hover {
 a:active {
   color: red;
 }
-div {
+div > p {
+  background-color: beige;
   height: 100px;
   width: 40%;
-  background-color: beige;
-}
-div > p {
-  background-color: bisque;
 }
